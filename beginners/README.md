@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Beginners Track
-description: collabnix | DockerLab | Docker - Beginners Track
+description: osDFS | DockerLab | Docker - Beginners Track
 ---
 
 # Beginners Track
